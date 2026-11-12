@@ -4,7 +4,7 @@ public class variabel {
         String nama = "Ahmad Jabbar";
         String tempatTanggalLahir = "Jakarta, 22 MEI 2008";
         String jenisKelamin = "Laki-laki";
-        String alamatlegkap = "TANAH TINGGI IV NO 52";
+        String alamatlegkap = "TANAH TINGGI IV";
         String noHp = "081234567890";
         double penghasilan = 1000000.00;
 
